@@ -1,0 +1,9 @@
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\HemmingVarshamovSolution\VarshamovApp\bin\Debug\VarshamovApp.exe.config
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\HemmingVarshamovSolution\VarshamovApp\bin\Debug\VarshamovApp.exe
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\HemmingVarshamovSolution\VarshamovApp\bin\Debug\VarshamovApp.pdb
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\HemmingVarshamovSolution\VarshamovApp\obj\Debug\VarshamovApp.csprojResolveAssemblyReference.cache
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\HemmingVarshamovSolution\VarshamovApp\obj\Debug\VarshamovApp.Form1.resources
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\HemmingVarshamovSolution\VarshamovApp\obj\Debug\VarshamovApp.Properties.Resources.resources
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\HemmingVarshamovSolution\VarshamovApp\obj\Debug\VarshamovApp.csproj.GenerateResource.Cache
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\HemmingVarshamovSolution\VarshamovApp\obj\Debug\VarshamovApp.exe
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\HemmingVarshamovSolution\VarshamovApp\obj\Debug\VarshamovApp.pdb

@@ -1,0 +1,9 @@
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\HemmingVarshamovSolution\HemmingApp\bin\Debug\HemmingApp.exe.config
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\HemmingVarshamovSolution\HemmingApp\bin\Debug\HemmingApp.exe
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\HemmingVarshamovSolution\HemmingApp\bin\Debug\HemmingApp.pdb
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\HemmingVarshamovSolution\HemmingApp\obj\Debug\HemmingApp.csprojResolveAssemblyReference.cache
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\HemmingVarshamovSolution\HemmingApp\obj\Debug\HemmingApp.mainForm.resources
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\HemmingVarshamovSolution\HemmingApp\obj\Debug\HemmingApp.Properties.Resources.resources
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\HemmingVarshamovSolution\HemmingApp\obj\Debug\HemmingApp.csproj.GenerateResource.Cache
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\HemmingVarshamovSolution\HemmingApp\obj\Debug\HemmingApp.exe
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\HemmingVarshamovSolution\HemmingApp\obj\Debug\HemmingApp.pdb
